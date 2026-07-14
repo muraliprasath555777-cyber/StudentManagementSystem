@@ -1,0 +1,32 @@
+# Visual Studio
+.vs/
+.vscode/
+
+# Build folders
+Debug/
+Release/
+x64/
+x86/
+
+# User files
+*.user
+*.suo
+*.ipch
+*.VC.db
+*.VC.opendb
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.obj
+*.pdb
+*.ilk
+*.tlog
+
+# Executables
+*.exe
+
+# Text records (optional)
+# students.txt
