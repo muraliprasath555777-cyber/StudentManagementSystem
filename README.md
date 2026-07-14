@@ -14,4 +14,4 @@ A console-based Student Management System developed using C++.
 - Visual Studio 2022
 
 ## 👨‍💻 Author
-Murali Prasath
+Ramprasath
